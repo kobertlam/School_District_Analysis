@@ -1,4 +1,5 @@
 # School_District_Analysis
+The school board suspected there is academic dishonesty in the reading and math grades for Thomas High School ninth graders. You are asked to replace the math and reading scores for Thomas High School ninth graders with NaNs while keeping the rest of data intact. Once you've replaced the data, you would repeat the school district analysis and write up a report to describe how these changes affected the overall analysis.
 
 ## Overview of the school district analysis:
 Explain the purpose of this analysis.
