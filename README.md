@@ -12,9 +12,17 @@ The school board suspected there is academic dishonesty in the reading and math 
     District Summary After Replacement
     ![District Summary After Replacement](Resources/Challenge_District_Summary.jpg)
 
-    - The values for "Average Math Score", "% Passing Math", "% of Passing Reading", and "% Overall Passing" have been dropped **after** replacing the data. 
+    - The values for "Average Math Score", "% Passing Math", "% of Passing Reading", and "% Overall Passing" dropped **after** replacing the data.
 
 - How is the school summary affected?
+
+    School Summary Before Replacement
+    ![School Summary Before Replacement](Resources/PyCitySchools_School_Summary.jpg)
+
+    School Summary After Replacement
+    ![School Summary After Replacement](Resources/Challenge_School_Summary.jpg)
+
+    - The values for "Average Math Score", "% Passing Math", "% of Passing Reading", and "% Overall Passing" dropped **after** replacing the data.
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
