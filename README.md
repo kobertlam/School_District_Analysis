@@ -22,7 +22,10 @@ The school board suspected there is academic dishonesty in the reading and math 
     School Summary After Replacement
     ![School Summary After Replacement](Resources/Challenge_School_Summary.jpg)
 
-    - The values for "Average Math Score", "% Passing Math", "% of Passing Reading", and "% Overall Passing" dropped **after** replacing the data.
+    - "Average Math Score" was dropped from 79.0 to 78.9 after replacing the data.
+    - "% Passing Math" dropped from 75 to 74.8 after replacing the data.
+    - "% of Passing Reading" dropped from 86 to 85.7 after replacing the data.
+    - "% Overall Passing" dropped from 65 to 64.9 after replacing the data.
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
