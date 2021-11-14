@@ -5,11 +5,14 @@ The school board suspected there is academic dishonesty in the reading and math 
 
 ## Results
 - How is the district summary affected?
+
     District Summary Before Replacement
     ![District Summary Before Replacement](Resources/PyCitySchools_District_Summary.jpg)
 
     District Summary After Replacement
     ![District Summary After Replacement](Resources/Challenge_District_Summary.jpg)
+
+    - The values for "Average Math Score", "% Passing Math", "% of Passing Reading", and "% Overall Passing" have been dropped **after** replacing the data. 
 
 - How is the school summary affected?
 
