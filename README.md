@@ -93,4 +93,4 @@ To summarize the changes in the updated school district analysis after reading a
 2. In the School Summary, only the data for Thomas High School was affected.
 3. There is no change on the Thomas High School's performance relative to other schools, since there are no changes on the High and Low performing schools.
 4. In the Math and reading scores by Grade, only ther 9th grade Math and reading scores for Thomas High School changed to "nan", while there are no changes on the reading and Math scores for other graders in Thomas High School.
-5. There are no changes on the "Scores byb School Spending", "Scores by School Size", and "Scores by School Type".
+5. There are no changes on the "Scores by School Spending", "Scores by School Size", and "Scores by School Type".
