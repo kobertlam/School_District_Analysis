@@ -58,10 +58,7 @@ The school board suspected there is academic dishonesty in the reading and math 
         Reading Scores by Grade After Replacement
         ![Reading Scores by Grade After Replacement](Resources/Challenge_Read_Score_By_Grade.jpg)
         
-        - Before data replacement, Math scores for Thomas High School by grade are: 9th: 83.6, 10th: 83.1, 11th: 83.5, 12th: 83.5
-        - Before data replacement, reading scores for Thomas High School by grade are: 9th: 83.7, 10th: 84.3, 11th: 83.6, 12th: 83.8 <-- 
-        - After data replacement, Math scores for Thomas High School by grade are: 9th: nan, 10th: 83.1, 11th: 83.5, 12th: 83.5
-        - After data replacement, reading scores for Thomas High School by grade are: 9th: nan, 10th: 84.3, 11th: 83.6, 12th: 83.8
+        - After data replacement, only the 9th grade reading and math score for Thomas High School changed to "nan", but there are no changes on the reading and math scores for other graders in Thomas High School.
 
     - Scores by school spending
     - Scores by school size
