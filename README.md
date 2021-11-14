@@ -40,8 +40,8 @@ The school board suspected there is academic dishonesty in the reading and math 
     High and Low Performing Schools After Replacement
     ![High and Low Performing Schools After Replacement](Resources/Challenge_High_and_Low_Performing_Schools.jpg)
 
-    - There is no change on the position of the top and bottom 5 based on the "% Overall Passing".
-    - Thomos High School positioned at second place of the top performing school.
+    - There is no change on the position of the top and bottom 5 schools based on the "% Overall Passing".
+    - **Thomas High School** positioned at second place of the top performing school.
 
 - How does replacing the ninth-grade scores affect the following:
     - Math and reading scores by grade
