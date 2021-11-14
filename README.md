@@ -28,9 +28,9 @@ The school board suspected there is academic dishonesty in the reading and math 
     - Only the data for Thomas High School (THS) was affected, while results for other schools are remain unchanged.
     - "Average Math Score" for THS was dropped from 83.418349 to 83.350937 after replacing the data.
     - "Average Reading Score" for THS was increased from 83.848930 to 83.896082 after replacing the data.
-    - "% Passing Math" for THS dropped from 93.272171 to 66.911315 after replacing the data.
-    - "% of Passing Reading" for THS dropped from 97.308869 to 69.663609 after replacing the data.
-    - "% Overall Passing" for THS dropped from 90.948012 to 65.076453 after replacing the data.
+    - "% Passing Math" for THS dropped from 93.272171 to 93.185690 after replacing the data.
+    - "% of Passing Reading" for THS dropped from 97.308869 to 97.018739 after replacing the data.
+    - "% Overall Passing" for THS dropped from 90.948012 to 90.630324 after replacing the data.
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
