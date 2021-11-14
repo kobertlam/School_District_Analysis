@@ -48,15 +48,19 @@ The school board suspected there is academic dishonesty in the reading and math 
     - Math and reading scores by grade
     
         Math Scores by Grade Before Replacement
+        
         ![Math Scores by Grade Before Replacement](Resources/PyCitySchools_Math_Score_By_Grade.jpg)
 
         Reading Scores by Grade Before Replacement
+        
         ![Reading Scores by Grade Before Replacement](Resources/PyCitySchools_Read_Score_By_Grade.jpg)
 
         Math Scores by Grade After Replacement
+        
         ![Math Scores by Grade After Replacement](Resources/Challenge_Math_Score_By_Grade.jpg)
 
         Reading Scores by Grade After Replacement
+        
         ![Reading Scores by Grade After Replacement](Resources/Challenge_Read_Score_By_Grade.jpg)
         - After data replacement, only the 9th grade reading and math score for Thomas High School changed to "nan", but there are no changes on the reading and math scores for other graders in Thomas High School.
 
