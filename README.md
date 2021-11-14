@@ -34,6 +34,15 @@ The school board suspected there is academic dishonesty in the reading and math 
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
+    High and Low Performing Schools Before Replacement
+    ![High and Low Performing Schools Before Replacement](Resources/PyCitySchools_High_and_Low_Performing_Schools.jpg)
+
+    High and Low Performing Schools After Replacement
+    ![High and Low Performing Schools After Replacement](Resources/Challenge_High_and_Low_Performing_Schools.jpg)
+
+    - There is no change on the position of the top and bottom 5 based on the "% Overall Passing".
+    - Thomos High School positioned at second place of the top performing school.
+
 - How does replacing the ninth-grade scores affect the following:
     - Math and reading scores by grade
     - Scores by school spending
